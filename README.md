@@ -25,4 +25,4 @@ I enjoy learning new technology and would love to contribute to more Open Source
 
 ### Python:
 
-![CodeWars](https://www.codewars.com/users/elementary88)
+![CodeWars](https://www.codewars.com/users/elementary88/badges/large)
