@@ -1,5 +1,4 @@
-# Hello, everyone! 
-Welcome to my page!
+# Hello, everyone 👋! 
 
 ## About me
 I'm Nikita, Data Scientist with technical IT education and experience in building machine learning models, building neural networks for business tasks.
@@ -25,4 +24,4 @@ I enjoy learning new technology and would love to contribute to more Open Source
 
 ### Python:
 
-![CodeWars](https://www.codewars.com/users/elementary88/badges/large)
+![CodeWars](https://www.codewars.com/users/nikitaopravin/badges/large)
