@@ -1,7 +1,7 @@
 ## Hello, everyone! 👋 
 I'm **Data Scientist** with technical IT education and experience in building **machine learning** models, building **neural networks** for business tasks.
 
-I enjoy learning new technology and would love to contribute to more Open Source projects. I mainly use **Python** language and work with **Pandas, Numpy, PyTorch, Streamlit** and it's interesting to experiment with new libraries.
+I enjoy learning new technology and would love to contribute to more Open Source projects. I mainly use **Python** language and work with **Pandas, Numpy, PyTorch, Streamlit** and it's interesting to experiment with new libraries!
 
 ## You can contact me here:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.opravinnikita@gmail.com)
