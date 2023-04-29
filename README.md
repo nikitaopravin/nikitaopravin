@@ -22,4 +22,4 @@ I enjoy learning new technology and would love to contribute to more Open Source
 
 ### Python:
 
-![CodeWars](https://www.codewars.com/users/nikitaopravin/badges/large)
+[![CodeWars](https://www.codewars.com/users/nikitaopravin/badges/large)](https://www.codewars.com/users/nikitaopravin)
